@@ -1,0 +1,1 @@
+ActivateAIO - một công cụ dùng để kích hoạt các phầm mềm máy tính của hãng M nào đó. Thông thường, nếu tải trên mạng, bạn sẽ bị dẫn qua hàng ngàn đường link quảng cáo linh tinh. Tại đây, bạn có thể tải trực tiếp file về mà không cần vượt link gì cả.
